@@ -1,0 +1,4 @@
+Connecting:
+  RegionChangeInterval: 5 # The time in between region changes.
+  ConnectionRetryCount: 5 # The amount of retries to attempt before failure.
+  ConnectionRetrySleep: 1 # Time in between testing connection state.
